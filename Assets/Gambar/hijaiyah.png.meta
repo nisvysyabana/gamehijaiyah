@@ -1,0 +1,927 @@
+fileFormatVersion: 2
+guid: de00b2896195d3f478da9d3275be99cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -76889759993191122
+    second: hijaiyah_0
+  - first:
+      213: 5610860111365795399
+    second: hijaiyah_1
+  - first:
+      213: -8148423807195401425
+    second: hijaiyah_2
+  - first:
+      213: -7321179450109588328
+    second: hijaiyah_3
+  - first:
+      213: 6166097093917543808
+    second: hijaiyah_4
+  - first:
+      213: 827752260760934709
+    second: hijaiyah_5
+  - first:
+      213: 3374305722124514552
+    second: hijaiyah_6
+  - first:
+      213: 9177563983321261871
+    second: hijaiyah_7
+  - first:
+      213: 1925203915126607175
+    second: hijaiyah_8
+  - first:
+      213: 8234653502703061685
+    second: hijaiyah_9
+  - first:
+      213: 492732652229145147
+    second: hijaiyah_10
+  - first:
+      213: -2974387328164621963
+    second: hijaiyah_11
+  - first:
+      213: 5675336882463859320
+    second: hijaiyah_12
+  - first:
+      213: 3406229787033172273
+    second: hijaiyah_13
+  - first:
+      213: -6895822073049377988
+    second: hijaiyah_14
+  - first:
+      213: 2358464282198802275
+    second: hijaiyah_15
+  - first:
+      213: 4703191628023126042
+    second: hijaiyah_16
+  - first:
+      213: -2354657930804107451
+    second: hijaiyah_17
+  - first:
+      213: 2906460407783939138
+    second: hijaiyah_18
+  - first:
+      213: -6698208985462858752
+    second: hijaiyah_19
+  - first:
+      213: 5312553501524391664
+    second: hijaiyah_20
+  - first:
+      213: 332052158382681617
+    second: hijaiyah_21
+  - first:
+      213: 3132010482094166819
+    second: hijaiyah_22
+  - first:
+      213: -55984249750155299
+    second: hijaiyah_23
+  - first:
+      213: 5822368369627599335
+    second: hijaiyah_24
+  - first:
+      213: 2429778873144703092
+    second: hijaiyah_25
+  - first:
+      213: 1351047438890935560
+    second: hijaiyah_26
+  - first:
+      213: 7202496272978522386
+    second: hijaiyah_27
+  - first:
+      213: -6461180099377123739
+    second: hijaiyah_28
+  - first:
+      213: 3245852319495333033
+    second: hijaiyah_29
+  - first:
+      213: 4013333974731767716
+    second: hijaiyah_30
+  - first:
+      213: -7377093237388264224
+    second: hijaiyah_31
+  - first:
+      213: -5869401524933931068
+    second: hijaiyah_32
+  - first:
+      213: 4771911622443657674
+    second: hijaiyah_33
+  - first:
+      213: -2214752322273358589
+    second: hijaiyah_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hijaiyah_0
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 332
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25adb0bb25deeef0800000000000000
+      internalID: -76889759993191122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 236
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74eed5e2b87cddd40800000000000000
+      internalID: 5610860111365795399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 237
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2338c438bbfaee80800000000000000
+      internalID: -8148423807195401425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 237
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c04535412f56a90800000000000000
+      internalID: -7321179450109588328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 237
+        width: 123
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d068533a0629550800000000000000
+      internalID: 6166097093917543808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 237
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5399ea8ab44cc7b00800000000000000
+      internalID: 827752260760934709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 237
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4bcca2d21f3de20800000000000000
+      internalID: 3374305722124514552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 237
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27684961d14d5f70800000000000000
+      internalID: 9177563983321261871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_8
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 237
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d0059b2c2b7ba10800000000000000
+      internalID: 1925203915126607175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_9
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 237
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baca0d4bbd574270800000000000000
+      internalID: 8234653502703061685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 154
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32ba519cb986d600800000000000000
+      internalID: 492732652229145147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 154
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5711358eb7ad8b6d0800000000000000
+      internalID: -2974387328164621963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_12
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 154
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8726eeb43d8d2ce40800000000000000
+      internalID: 5675336882463859320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 154
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139777fb1fb554f20800000000000000
+      internalID: 3406229787033172273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_14
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 154
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3318953c5e1d40a0800000000000000
+      internalID: -6895822073049377988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_15
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 155
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ff7ebd4c2fab020800000000000000
+      internalID: 2358464282198802275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_16
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 155
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18d8eafdd7154140800000000000000
+      internalID: 4703191628023126042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_17
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 154
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5476dd26613925fd0800000000000000
+      internalID: -2354657930804107451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_18
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 154
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cd2bf7752d55820800000000000000
+      internalID: 2906460407783939138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_19
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 154
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c18269a6e2b03a0800000000000000
+      internalID: -6698208985462858752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 64
+        width: 184
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f67e94334bf9b940800000000000000
+      internalID: 5312553501524391664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 64
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e2d43cdafab9400800000000000000
+      internalID: 332052158382681617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_22
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 64
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323d50a70f2277b20800000000000000
+      internalID: 3132010482094166819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_23
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 64
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf00a81f9a193ff0800000000000000
+      internalID: -55984249750155299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_24
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 15
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e19f171f253dc050800000000000000
+      internalID: 5822368369627599335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_25
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 237
+        width: 58
+        height: 55
+      alignment: 9
+      pivot: {x: 0.46385613, y: 0.4138497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478f988f20f48b120800000000000000
+      internalID: 2429778873144703092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_26
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 64
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805abcdcc72efb210800000000000000
+      internalID: 1351047438890935560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 64
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211b5f6233864f360800000000000000
+      internalID: 7202496272978522386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eadc2bee64556a0800000000000000
+      internalID: -6461180099377123739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_29
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 64
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4a5e0cc759b0d20800000000000000
+      internalID: 3245852319495333033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_30
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 64
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afb4e88cf932b730800000000000000
+      internalID: 4013333974731767716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_31
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 64
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec398e39cc4f9990800000000000000
+      internalID: -7377093237388264224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_32
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 237
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf4d261962bb8ea0800000000000000
+      internalID: -5869401524933931068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hijaiyah_34
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 64
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dcc654f7e9341e0800000000000000
+      internalID: -2214752322273358589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
