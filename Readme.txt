@@ -1,0 +1,1 @@
+Game ini merupakan media pembelajaran huruf hijaiyah.
